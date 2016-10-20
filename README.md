@@ -1,2 +1,2 @@
 # Lagrange
-Implementação algoritmo de Langrange
+Implementação algoritmo de Lagrange
